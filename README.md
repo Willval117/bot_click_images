@@ -1,0 +1,1 @@
+# bot_click_images
