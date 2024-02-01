@@ -173,7 +173,7 @@ def ejecutar_automatizacion():
 
 # WIDGET
 ventana = tk.Tk()
-ventana.title("Selector de Archivos")
+ventana.title("Seleccionar etapas")
 ventana.geometry("890x400")
 
 #scrollbar
